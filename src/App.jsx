@@ -1,7 +1,11 @@
 import "./App.css";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <h1 style={{ color: "red" }}>Hello</h1>
+    </>
+  );
 }
 
 export default App;
