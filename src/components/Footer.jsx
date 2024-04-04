@@ -8,7 +8,7 @@ const Footer = () => {
         fontSize: "2.5rem",
       }}
     >
-      <p>Je suis le salut à tous les amis c'est tom-branche qui parle !!</p>
+      <p>Je suis le salut à tous les amis c'est tom-branche et bastien-branch qui parle !!</p>
     </footer>
   );
 };
