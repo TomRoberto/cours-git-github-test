@@ -8,7 +8,7 @@ const Footer = () => {
         fontSize: "2.5rem",
       }}
     >
-      <p>Je suis le footer !!</p>
+      <p>Je viens éditer le footer depuis bastien-branch</p>
     </footer>
   );
 };
